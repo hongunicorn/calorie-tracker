@@ -1,4 +1,5 @@
 # Spring MVC | AngularJs Sample App #
+#POM.XML need to be modified according to GitHub
 
 A sample project to demonstrate how a web app can be built using a Spring MVC / AngularJs stack. The frontend is based on Angular, lodash and requirejs, and the backend is composed of JSON REST web services based on Spring MVC / JPA, secured with Spring Security. See a further description of the app on this [blog post](http://blog.jhades.org/developing-a-modern-java-8-web-app-with-spring-mvc-and-angularjs/).
 
